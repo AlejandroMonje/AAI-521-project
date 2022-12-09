@@ -4,7 +4,7 @@ University of San Diego (USD). 
 -- Project Status: Completed
 
 Prerequisites:
-* First have either jupyter notebook installed and running (https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) or use google colab (https://colab.research.google.com/) both are free resources that we will be using to run our code on.
+* First have either jupyter notebook installed and running (https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) or use google colab (https://colab.research.google.com/) both are free resources that you can use to run our code on.
 * kaggle accounnt: you can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
 
 Installation
