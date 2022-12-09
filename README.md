@@ -1,11 +1,12 @@
-Image Segmentation 
+<b>Image Segmentation</b>
+<br>
 This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the
 University of San Diego (USD). 
 -- Project Status: Completed
 
 <b>Prerequisites:</b>
-* First have either jupyter notebook installed and running (https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) or use google colab (https://colab.research.google.com/) both are free resources that you can use to run our code on.
-* kaggle accounnt: you can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
+* First have either ```jupyter notebook``` installed and running (https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) or use ```google colab``` (https://colab.research.google.com/) both are free resources that you can use to run our code on.
+* Create/Register for a ```kaggle accounnt```. You can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
 
 <b>Installation</b>
 In order to run the code in this repository you will first have to get the the train.zip and test1.zip files from https://www.kaggle.com/competitions/dogs-vs-cats/data and put those files into your working directory. Open the AAI_521_Group3.ipynb file. Your path may be different than ours so you will have to update the path in the follwing  sections: 
