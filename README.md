@@ -10,12 +10,15 @@ University of San Diego (USD). 
 <b>Prerequisites</b>
 * ```Google Drive``` (https://www.google.com/drive/)
 * ```Google Colab``` (https://colab.research.google.com)
+** You can run individual cells in google colab by pressing ```shift + enter``` or you run all the cells by going to ```Runtime``` and then hitting ```Run all```.
 * Create/Register for a ```kaggle accounnt```. You can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
 
 <b>Installation</b>
 <br>
-In order to run the code you will need the ```train.zip``` and ```test1.zip``` files which are provided in the repository. You may also obtain these files from https://www.kaggle.com/competitions/dogs-vs-cats/data. We need to put these files in our working directory inside our ```Google Drive```. Once we have those files added to our ```Google Drive``` then we can open up ```Google Colab```. Open the ```AAI_521_Group3.ipynb file``` inside google colab. Your path may be different than ours so you will have to update the path in the follwing  sections: 
-Once the path has been updated you should be able to run the rest of the cells in the in the file. You can run individual cells in google colab by pressing ```shift + enter``` or you run all the cells by going to ```Runtime``` and then hitting ```Run all```. If you would like to change the specific image to test the image segmentation portion on you can update the variable ```file``` which is in the second cell of the *Classifying An Unseen Image Using Best Performing Model section*.
+In order to run the code you will need the ```train.zip``` and ```test1.zip``` files which are provided in the repository. You may also obtain these files from https://www.kaggle.com/competitions/dogs-vs-cats/data. We need to put these files in our working directory inside our ```Google Drive```. Once we have those files added to our ```Google Drive``` then we can open up ```Google Colab```. Open the ```AAI_521_Group3.ipynb file``` inside google colab. Run the first cell to import the required python modules. Run the second cell to mount your google drive you may be asked for permission to connect to your drive. If so allow google colab to connect so that it may access the files need to continue running the rest of the code. After this run the rest of the cells in order. If you would like to change the specific image to test the image segmentation portion on you can update the variable ```file``` which is in the second cell of the *Classifying An Unseen Image Using Best Performing Model section*.
+
+<b>Note:</b> Your path may be different than ours so you will have to update the path in the follwing  sections: 
+Once the path has been updated you should be able to run the rest of the cells in the in the file. 
 
 <b>Project Objective</b>
 <br>
