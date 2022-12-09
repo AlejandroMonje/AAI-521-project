@@ -10,7 +10,7 @@ University of San Diego (USD). 
 <b>Prerequisites</b>
 * ```Google Drive``` (https://www.google.com/drive/)
 * ```Google Colab``` (https://colab.research.google.com)
-** You can run individual cells in google colab by pressing ```shift + enter``` or you run all the cells by going to ```Runtime``` and then hitting ```Run all```.
+  - You can run individual cells in google colab by pressing ```shift + enter``` or you run all the cells by going to ```Runtime``` and then hitting ```Run all```.
 * Create/Register for a ```kaggle accounnt```. You can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
 
 <b>Installation</b>
