@@ -8,13 +8,14 @@ University of San Diego (USD). 
 
 
 <b>Prerequisites</b>
-* First have either ```jupyter notebook``` installed and running (https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) 
+* ```Google Drive``` (https://www.google.com/drive/)
+* ```Google Colab``` (https://colab.research.google.com)
 * Create/Register for a ```kaggle accounnt```. You can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
 
 <b>Installation</b>
 <br>
-In order to run the code you will need the ```train.zip``` and ```test1.zip``` files which are provided in the repository. You may also obtain these files from https://www.kaggle.com/competitions/dogs-vs-cats/data (put those files into your working directory). Open the AAI_521_Group3.ipynb file. Your path may be different than ours so you will have to update the path in the follwing  sections: 
-Once the path has been updated you should be able to run the rest of the cells in the in the file. You can run individual cells in jupyter notebook by pressing ```shift + enter``` or you can go to ```Cell``` and the hit ```Run All```. If you would like to change the specific image to test the image segmentation portion on you can update the variable ```file``` which is in the second cell of the *Classifying An Unseen Image Using Best Performing Model section*.
+In order to run the code you will need the ```train.zip``` and ```test1.zip``` files which are provided in the repository. You may also obtain these files from https://www.kaggle.com/competitions/dogs-vs-cats/data. We need to put these files in our working directory inside our ```Google Drive```. Once we have those files added to our ```Google Drive``` then we can open up ```Google Colab```. Open the ```AAI_521_Group3.ipynb file``` inside google colab. Your path may be different than ours so you will have to update the path in the follwing  sections: 
+Once the path has been updated you should be able to run the rest of the cells in the in the file. You can run individual cells in google colab by pressing ```shift + enter``` or you run all the cells by going to ```Runtime``` and then hitting ```Run all```. If you would like to change the specific image to test the image segmentation portion on you can update the variable ```file``` which is in the second cell of the *Classifying An Unseen Image Using Best Performing Model section*.
 
 <b>Project Objective</b>
 <br>
