@@ -4,6 +4,9 @@ This project is a part of the AAI-521 course in the Applied Artificial Intellige
 University of San Diego (USD). 
 -- Project Status: Completed
 
+<img width="391" alt="imgSeg" src="https://user-images.githubusercontent.com/105265021/206610278-73d69681-5f71-455a-8794-8de7f0e8b625.png">
+
+
 <b>Prerequisites</b>
 * First have either ```jupyter notebook``` installed and running (https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) or use ```google colab``` (https://colab.research.google.com/) both are free resources that you can use to run our code on.
 * Create/Register for a ```kaggle accounnt```. You can register for an account here (https://www.kaggle.com/account/login?phase=emailRegister)
