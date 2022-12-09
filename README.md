@@ -10,7 +10,7 @@ University of San Diego (USD). 
 
 <b>Installation</b>
 <br>
-In order to run the code in this repository you will first have to get the the train.zip and test1.zip files from https://www.kaggle.com/competitions/dogs-vs-cats/data and put those files into your working directory. Open the AAI_521_Group3.ipynb file. Your path may be different than ours so you will have to update the path in the follwing  sections: 
+In order to run the code in this repository you will first have to get the the ```train.zip``` and ```test1.zip``` files from https://www.kaggle.com/competitions/dogs-vs-cats/data and put those files into your working directory. Open the AAI_521_Group3.ipynb file. Your path may be different than ours so you will have to update the path in the follwing  sections: 
 Once the path has been updated you should be able to run the rest of the cells in the in the file. If you would like to change the specific image to test the image segmentation portion on you can update the variable ```file``` which is in the second cell of the Classifying An Unseen Image Using Best Performing Model section.
 
 <b>Project Objective</b>
@@ -47,9 +47,6 @@ Discuss the details of project overview. Description your selected dataset, such
 number of variables, size of dataset, etc. Include data dictionary, if available. Provide questions
 and hypothesis that you are exploring. What specific data analysis, visualization, and modeling
 work are you using to solve the problem? What roadblocks and challenges are you facing? etc.
-License
-You can add under what license your project is. As a good practice, add LICENSE file in your
-project folder as well.
-Acknowledgments
+
 You can mention and thank your professors and those who technically helped you during the
 project.
