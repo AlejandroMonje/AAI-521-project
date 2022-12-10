@@ -1,7 +1,7 @@
 # AAI-521-project
 Group project by Alejandro Monje, Edgar Munoz, and Xavier Plasencia   
 
-Cat & Dog Image Classification with Image Segmentation 
+Classification and Segmentation of Cat & Dog Images
 
 This project is a part of the AAI-521 course in the Applied Artificial Intelligence Program at the University of San Diego (USD).  -- Project Status: Completed
 
