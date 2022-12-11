@@ -46,7 +46,7 @@ We can potentially use this to make profiles for animals, people, or other thing
 
 <b>Technologies</b>
 * Python
-* jupyter notebook/Google Colab
+* Jupyter Notebook/Google Colab
 
 We chose to use a kaggle dataset on cats and dogs (https://www.kaggle.com/competitions/dogs-vs-cats). Our data set comes from Kaggle (https://www.kaggle.com/competitions/dogs-vs-cats/data). It contains a total of 25,000 images. It’s equally split between cat (12,500) and dog (12,500) images. The images in the dataset vary in size and we can see the distribution of sizes in the image below. 
 
