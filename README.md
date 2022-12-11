@@ -22,10 +22,10 @@ Once the path has been updated you should be able to run the rest of the cells i
 
 <b>Project Objective</b>
 <br>
-The main purpose of this project is demonstrate our ability to create a machine learning model that takes in the images, classifies them, and lastly use the grabcut algorithm to perform image segmentation. The goal of this project is to have a model that can take in a dataset of images and accurately classify those images. In our case we used a dataset that consists of dog and cat images. We also want to to be able to perform image segmentation on these images. We can potentially use this
+The main purpose of this project is demonstrate our ability to create a machine learning model that takes in the images, classifies them, and lastly use the grabcut algorithm to perform image segmentation. The goal of this project is to have a model that can take in a dataset of images and accurately classify those images. In our case we used a dataset that consists of dog and cat images. We also want to to be able to perform image segmentation on these images.
 
-Describe the goals of the project and potential
-impacts. Mention the needs/applications of your project clearly. Limit to one/two short
+We can potentially use this to make profiles for animals, people, or other things. An example would be pet profiles at a animal shelter. They could use this to classify an animal and then take their photo (after image segmentation has been performed) and create a nice profile with it. Vets can also use this to make profiles for their animal patients.
+
 
 
 <b>Partner(s)/Contributor(s)</b>
@@ -46,14 +46,13 @@ impacts. Mention the needs/applications of your project clearly. Limit to one/tw
 
 <b>Technologies</b>
 * Python
-* jupyter notebook
+* jupyter notebook/Google Colab
 
-We choose to use a kaggle dataset on cats and dogs (https://www.kaggle.com/competitions/dogs-vs-cats). GNU General Public License v3.0
+We choose to use a kaggle dataset on cats and dogs (https://www.kaggle.com/competitions/dogs-vs-cats). Our data set comes from Kaggle (https://www.kaggle.com/competitions/dogs-vs-cats/data). It contains a total of 25,000 images. It’s equally split between cat (12,500) and dog (12,500) images. The images in the dataset vary in size and we can see the distribution of sizes in the image below. 
 
-Discuss the details of project overview. Description your selected dataset, such as data source,
-number of variables, size of dataset, etc. Include data dictionary, if available. Provide questions
-and hypothesis that you are exploring. What specific data analysis, visualization, and modeling
-work are you using to solve the problem? What roadblocks and challenges are you facing? etc.
+GNU General Public License v3.0
 
-You can mention and thank your professors and those who technically helped you during the
-project.
+Image classification and image segmentation can be used in many different fields. How we can apply these skills and tools can have a huge impacts on our society. We asked ourselves what we can do with these tools and stumbled across the daogs and cats dataset. Our goal is to use EDA inorder to gain isights into our data and visualize what we find using bar charts and scatterplots. We are going take advantage of deep learning Convolutional Neural Networks of the pre-trained VGG16 model for classification and The GrabCut algorithm for the image segmentation portion. An issue we had to tackle was images of various sizes. We overcame this problem through normialization and scaling the data. We ultimately were able to achieve our goal of classifying images and performing image segmentation.
+ 
+Special thanks to our professor (Roozbeh Sadeghian, Ph.D.) who answered questions and helped clear up any confusion with the assignment.
+
